@@ -1,0 +1,7 @@
+/build/
+/out/
+/tmp/
+/d3d9_proxy.ini
+/d3d9_proxy.log
+*.user
+*.suo
